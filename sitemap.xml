@@ -17,10 +17,6 @@
   </url>
   
   <url>
-    <loc>https://ruodanzhang.github.io/post/</loc>
-  </url>
-  
-  <url>
     <loc>https://ruodanzhang.github.io/publication_types/</loc>
     <priority>0</priority>
   </url>
@@ -41,6 +37,10 @@
   <url>
     <loc>https://ruodanzhang.github.io/tags/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ruodanzhang.github.io/post/</loc>
   </url>
   
 </urlset>
